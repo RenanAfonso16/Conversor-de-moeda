@@ -28,10 +28,10 @@ Este é um projeto de conversor de moedas desenvolvido em Java, utilizando a API
 
  ## Requisitos
 
-Java 17 ou superior
-IntelliJ IDEA ou outra IDE compatível
-Conexão com a internet
-Conta gratuita na Exchangerate-API
+Java 17 ou superior |
+IntelliJ IDEA ou outra IDE compatível |
+Conexão com a internet |
+Conta gratuita na Exchangerate-API |
 
  ## Autor
 Renan Afonso Vargas dos Santos |

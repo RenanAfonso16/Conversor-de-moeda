@@ -26,13 +26,13 @@ Este é um projeto de conversor de moedas desenvolvido em Java, utilizando a API
 - COP - Peso colombiano  
 - USD - Dólar americano  
 
- ##Requisitos
+ ## Requisitos
 
 Java 17 ou superior
 IntelliJ IDEA ou outra IDE compatível
 Conexão com a internet
 Conta gratuita na Exchangerate-API
 
- ##Autor
+ ## Autor
 Renan Afonso Vargas dos Santos
 Projeto acadêmico | Curso: Análise e Desenvolvimento de Sistemas

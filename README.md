@@ -34,5 +34,5 @@ Conexão com a internet
 Conta gratuita na Exchangerate-API
 
  ## Autor
-Renan Afonso Vargas dos Santos
+Renan Afonso Vargas dos Santos |
 Projeto acadêmico | Curso: Análise e Desenvolvimento de Sistemas
